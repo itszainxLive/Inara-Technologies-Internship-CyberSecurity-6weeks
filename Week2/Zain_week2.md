@@ -1,4 +1,4 @@
-<img src="media/media/image1.png" style="width:5.80625in;height:1.75486in" />
+<img src="screenshots/image1.png" style="width:5.80625in;height:1.75486in" />
 
 1.  **<u>The OSI and TCP/IP layered models; the role of each layer; encapsulation:-</u>**
 
