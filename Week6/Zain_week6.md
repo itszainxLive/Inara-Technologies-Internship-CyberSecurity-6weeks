@@ -279,7 +279,7 @@ just written and filed away, and outdated systems like Windows XP need
 to be replaced or isolated well before a patch becomes the only thing
 standing between a known vulnerability and a real attack.
 
-![image2.png](screenshots/image2.png)
+![image2.png](Screenshots/image2.png)
 
 **<u>What penetration testing is, why organisations do it, and what
 authorisation means</u>**
@@ -429,7 +429,7 @@ non-technical manager</u>**
 **Pentest Report :-
 <https://purplesec.us/wp-content/uploads/2019/12/Sample-Penetration-Test-Report-PurpleSec.pdf>**
 
-![image3.png](screenshots/image3.png)
+![image3.png](Screenshots/image3.png)
 
 **Attack Phases Identified in the Real Report:-**
 
@@ -550,7 +550,7 @@ emails.
 · We recommend treating these as top priorities immediately, given the
 sensitive patient data at stake.
 
-![image4.png](screenshots/image4.png)
+![image4.png](Screenshots/image4.png)
 
 **<u>What FortiGate, pfSense, and OPNsense are and what role they play in
 a network</u>**
@@ -779,7 +779,7 @@ Firewall \> Rules \> WAN
 > feature, such as OpenVPN, instead of a direct port left open to
 > everyone.
 
-![image5.png](screenshots/image5.png)
+![image5.png](Screenshots/image5.png)
 
 ### <u>Container security risks --- running as root, mutable filesystems, and unscanned images</u> {#container-security-risks-running-as-root-mutable-filesystems-and-unscanned-images .unnumbered}
 
@@ -913,7 +913,7 @@ more control than the backup task ever required.
 policy excerpt; annotate each with the security issues you can identify
 and note what the correct setting should be</u>**
 
-![image6.png](screenshots/image6.png)
+![image6.png](Screenshots/image6.png)
 
 #### Issue 1: allowPrivilegeEscalation is set to true in the \"app\" container:-
 
@@ -950,7 +950,7 @@ true anywhere in the manifest.
 -   runAsUser should also be explicitly set on the first container
     > (\"app\"), since it currently has none at all
 
-    ![image7.png](screenshots/image7.png)
+    ![image7.png](Screenshots/image7.png)
 
 #### Issue 1: Action is set to \"s3\":-
 
@@ -986,7 +986,7 @@ common security mistakes people make, since it gives full, unlimited
 access to all S3 storage in the entire account, when almost nobody
 actually needs that much access.
 
-![image8.png](screenshots/image8.png)
+![image8.png](Screenshots/image8.png)
 
 ### My 6 Week Journey {#my-6-week-journey .unnumbered}
 
