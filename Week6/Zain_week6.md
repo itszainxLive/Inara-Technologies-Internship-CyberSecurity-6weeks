@@ -1,4 +1,4 @@
-![image1.png](screenshots/image1.png)
+![image1.png](Screenshots/image1.png)
 
 **<u>The NIST incident response lifecycle (SP 800-61) Preparation,
 Detection, Containment, Eradication, Recovery, Lessons
